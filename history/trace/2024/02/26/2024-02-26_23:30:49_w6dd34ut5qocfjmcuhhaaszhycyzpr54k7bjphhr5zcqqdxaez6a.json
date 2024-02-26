@@ -1,0 +1,1 @@
+{"id":"w6dd34ut5qocfjmcuhhaaszhycyzpr54k7bjphhr5zcqqdxaez6a","stamp":"2024-02-26T23:30:49.929172884Z","payload":{"op":"account_transfer","note":"vote charge for ballot waimea/motion/priority_poll/22","args":{"amount":{"asset":"plural","quantity":9},"from":"user:ctessum","to":"ballot_escrow:waimea/motion/priority_poll/22"}}}

@@ -1,0 +1,1 @@
+{"id":"hjuzn67jcekpiyrylga3dbqppwwqdbuoqb7hfunrzhtb7y5oyblq","stamp":"2024-02-26T23:30:49.871494022Z","payload":{"op":"account_transfer","note":"vote charge for ballot waimea/motion/priority_poll/19","args":{"amount":{"asset":"plural","quantity":4},"from":"user:ctessum","to":"ballot_escrow:waimea/motion/priority_poll/19"}}}
