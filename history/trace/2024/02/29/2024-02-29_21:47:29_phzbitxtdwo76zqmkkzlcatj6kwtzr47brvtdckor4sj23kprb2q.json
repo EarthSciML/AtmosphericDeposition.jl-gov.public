@@ -1,0 +1,1 @@
+{"id":"phzbitxtdwo76zqmkkzlcatj6kwtzr47brvtdckor4sj23kprb2q","stamp":"2024-02-29T21:47:29.239168833Z","payload":{"op":"account_transfer","note":"closing ballot waimea/motion/approval_poll/30","args":{"amount":{"asset":"plural","quantity":4},"from":"ballot_escrow:waimea/motion/approval_poll/30","to":"motion:30+waimea-proposal-reward"}}}
