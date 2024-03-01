@@ -1,0 +1,1 @@
+{"id":"wfrhvx2jo7awb5lxkncnsbh7qubhu3ltvuz7cyjgxhbzhcldxlpq","stamp":"2024-03-01T01:40:07.296749942Z","payload":{"op":"account_transfer","note":"vote charge for ballot waimea/motion/approval_poll/29","args":{"amount":{"asset":"plural","quantity":4},"from":"user:ctessum","to":"ballot_escrow:waimea/motion/approval_poll/29"}}}
