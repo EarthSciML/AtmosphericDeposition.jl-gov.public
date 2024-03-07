@@ -1,0 +1,1 @@
+{"id":"iv4n2bz2aenlcmivulogblaflt65f4ipqvg3f3uzjcpd735fayhq","stamp":"2024-03-07T14:28:21.753541125Z","payload":{"motion":{"open":null,"close":null,"cancel":{"id":"20","type":"concern","policy":"waimea-concern","receipts":[{"account":"user:ctessum","type":"refund","amount":{"asset":"plural","quantity":4}}]}}}}

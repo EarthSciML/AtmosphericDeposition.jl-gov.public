@@ -1,0 +1,1 @@
+{"id":"2dh4g4piqqryl222jfnni3a77tthp4hwko4jzsglda7xwtfezlpq","stamp":"2024-03-07T14:28:21.628256837Z","payload":{"op":"account_transfer","note":"reviewer reward for proposal 29","args":{"amount":{"asset":"plural","quantity":4},"from":"motion:29+waimea-proposal-reward","to":"user:ctessum"}}}
